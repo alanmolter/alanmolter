@@ -39,4 +39,4 @@ Minha carreira abrange pesquisa, inovação e educação. Comecei como pesquisad
 Abracei a inovação, conquistando qualificações em empreendedorismo e desenvolvendo tecnologias de esterilização. Como professor,aprimorei o engajamento por meio de métodos interativos ministrando aulas de Tecnologia em saúde. 🚀Atualmente, como estudante de doutorado, emprego modelagem estatística avançada para identificar fatores de risco de doenças infecciosas. Minha jornada destaca meu compromisso com pesquisa, educação e experiência multidisciplinar, moldando minha carreira.
 
 
-![Snake animation](https://github.com/alanmolter/alanmolter/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/alanmolter/blob/output/github-contribuition-grid-snake.svg)
