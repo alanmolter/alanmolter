@@ -28,7 +28,7 @@
 
 🔒💻1 patente de software e 1 patente de hardware registrada como autor.
 
-🏆🥇 1º lugar em solução tecnológica em saúde, pelo concurso promovidopelo Ministério da Saúde e Fiocruz.
+🏆🥇 1º lugar em solução tecnológica em saúde, pelo concurso promovido pelo Ministério da Saúde e Fiocruz.
 
 📱 📫 Entre em contato no email: alanrenier@hotmail.com / alanrenier@gmail.com 
 
