@@ -12,8 +12,7 @@ Transformando dados complexos em decisões estratégicas de alto impacto atravé
 <br>
 
 <div>
-  <!-- IMPORTANTE: Substitua o link abaixo pela sua imagem hospedada no GitHub -->
-  <img alt="avatar" align="right" width="150" src="SEU_NOVO_LINK_AQUI.jpg">
+  <img alt="avatar" align="right" width="150" src="https://github.com/alanmolter/alanmolter/blob/main/um%20gato%20obeso%20realis.png">
   
   <h4>🛠️ Principais Tecnologias</h4>
   <p>
@@ -36,9 +35,9 @@ Transformando dados complexos em decisões estratégicas de alto impacto atravé
 
 ### 🌐 Conecte-se comigo
 
-<p> 
+<p>
+  <a href="https://devalanrenier.com/" target="_blank"><img src="https://img.shields.io/badge/Website-devalanrenier.com-4F2AB8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alan-molter-870589155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://devalanrenier.com/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"></a>  
   <a href="mailto:alanrenier@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/starkiller_a_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
@@ -47,25 +46,23 @@ Transformando dados complexos em decisões estratégicas de alto impacto atravé
 
 ### 👨‍💻 Sobre Mim
 
-Com mais de 7 anos de experiência, minha carreira abrange inovação em saúde, pesquisa científica e desenvolvimento de software de alta performance. Comecei como pesquisador na área biomédica e fiz a transição para a Ciência da Computação, unindo o rigor metodológico da pesquisa clínica com a escalabilidade da tecnologia.
+Com mais de 7 anos de experiência, minha carreira abrange inovação em saúde, pesquisa científica e desenvolvimento de software de alta performance[cite: 6]. Comecei como pesquisador na área biomédica e fiz a transição para a Ciência da Computação, unindo o rigor metodológico da pesquisa clínica com a escalabilidade da tecnologia[cite: 8].
 
-*   🧠 **IA & LLMs:** Especialista em arquiteturas LLM (RAG, Prompt Engineering, Function Calling) e pipelines NLP-to-SQL.
-*   📊 **Data Science:** Processamento de dados em larga escala (Apache Spark, ELK Stack), modelagem estatística avançada e machine learning para predição de cenários complexos.
-*   ⚙️ **Full Stack & Cloud:** Desenvolvimento end-to-end com Python (FastAPI/Django), JavaScript/TypeScript (React/Node.js), orquestração via Docker e deploy em AWS.
-*   🏥 **Pesquisa:** Atualmente Doutorando na Fiocruz, com foco em IA aplicada à saúde pública e modelagem preditiva de doenças infecciosas.
+* 🧠 **IA & LLMs:** Especialista em arquiteturas LLM (RAG, Prompt Engineering, Function Calling) e pipelines NLP-to-SQL[cite: 7].
+* 📊 **Data Science:** Processamento de dados em larga escala (Apache Spark, ELK Stack) e modelagem estatística[cite: 14].
+* ⚙️ **Full Stack & Cloud:** Desenvolvimento end-to-end com Python (FastAPI/Django), JavaScript/TypeScript (React/Node.js) e deploy em AWS[cite: 23, 24].
+* 🏥 **Pesquisa:** Doutorando na Fiocruz com foco em IA aplicada à saúde pública[cite: 41, 70].
 
 ---
 
 ### 🏆 Conquistas & Marcos
 
-*   🔒💻 **2 Patentes Registradas:** Autor de uma patente de software (diagnóstico) e uma de hardware (plataforma robótica de esterilização hospitalar).
-*   🥇 **1º Lugar em Hackathon:** Solução tecnológica em saúde pelo concurso promovido pelo Ministério da Saúde e Fiocruz.
-*   🔬 **Revisor Científico:** Atuação no *Biomedical Statistics and Informatics Journal* (Nova York).
-*   🚀 **Impacto Real:** Desenvolvimento de soluções que reduziram o tempo de extração de dados em ~60% e aumentaram a eficiência no monitoramento de pacientes em +30%.
+* 🔒💻 **2 Patentes Registradas:** Autor de patente de software de diagnóstico e hardware de robótica hospitalar[cite: 87].
+* 🥇 **1º Lugar Hackathon:** Solução tecnológica em saúde pela Fiocruz[cite: 86].
+* 🔬 **Revisor Científico:** Atuação no *Biomedical Statistics and Informatics Journal*[cite: 88].
 
 ---
 
 <p align="center">
-  <i>"Unindo rigor analítico, escalabilidade em cloud e foco em resultados mensuráveis."</i><br>
-  📱 <b>Contato:</b> alanrenier@hotmail.com / alanrenier@gmail.com
+  📱 <b>Contato:</b> alanrenier@hotmail.com 
 </p>
